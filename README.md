@@ -2,7 +2,7 @@
 REST API de livros
 
 
-REST API silples de livros
+REST API simples de livros
 
 COMO USAR:
 
